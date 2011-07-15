@@ -1,0 +1,7 @@
+# Capítulo 06: Inicialização do Sistema
+#  Sequência de boot
+#  Gestor de início "grub"
+#  Runlevels
+#  SysV init
+#  Upstart
+#  Controle de serviços
