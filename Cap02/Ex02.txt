@@ -1,0 +1,36 @@
+1. Efetue o login com o usuário “aluno” e a senha “aluno”.
+
+2. Acesse o terminal.
+
+3. Reinicie o computador via comando.
+
+4. Efetue o login novamente com o usuário “aluno”.
+
+5. Acesse o terminal.
+
+6. No diretório “/home/aluno”, crie a seguinte estrutura de diretórios:
+
+	diretorio1
+		|__ NotasDeAula
+		|	
+		|__ ComandosEstudados
+		|
+		|__ ArquivosCriados
+		|
+		|__Scripts
+		
+7. Entre no diretório “ArquivosCriados” e crie um arquivo chamado “lista.txt” com uma lista dos comandos aprendidos nesse capítulo.
+
+8. No mesmo diretório, crie um arquivo chamado “lembrar.txt” contendo informações úteis para você da aula de hoje.
+
+9. Sem alterar o diretório atual, copie o arquivo “lista.txt” para o diretório “ComandosEstudados”, informando o caminho de destino absoluto.
+
+10. Sem alterar o diretório atual, copie o arquivo “lembrar.txt” para o diretório “NotasDeAula”, informando o caminho de destino relativo.
+
+11. Ainda dentro do diretório ArquivosCriados, crie um arquivo chamado “AulaCap2.txt”, concatenando o conteúdo dos arquivos “lembrar.txt” e “lista.txt”.
+
+12. No diretório atual, apague os arquivos “lembrar.txt” e “lista.txt”, solicitando confirmação.
+
+13. Entre no diretório “~/diretorio1/ComandosEstudados”.
+
+14. Crie um arquivo chamado “historico.txt”, contendo o historico dos comandos digitados.

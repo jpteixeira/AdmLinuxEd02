@@ -1,0 +1,20 @@
+1. Entre no diretório “~/diretorio1/ComandosEstudados”.
+
+2. Faça uma cópia de segurança do arquivo “historico.txt”, gerado no exercício do Capítulo 02.
+
+3. Usando o vi, edite o arquivo “historico.txt”.
+
+4. Insira uma nova linha no começo do arquivo, contendo a frase: “HISTÓRICO DE COMANDOS”.
+
+5. Substitua todas as ocorrências do comando “ls” por “ls -l”.
+
+6. Remova as 2 últimas linhas.
+
+7. Remova a linha 13.
+
+8. Duplique a linha 3.
+
+9. Salve e saia do arquivo.
+
+10. Verifique o conteúdo do arquivo com o comando “more”.
+
