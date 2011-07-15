@@ -1,0 +1,5 @@
+1. No github, efetue um fork do repósitório https://github.com/dodopahim/AdmLinuxEd02
+
+2. Complete o script "https://github.com/dodopahim/AdmLinuxEd02/blob/master/Aval01/Aval01.sh" até a data informada pelo professor.
+
+3. A correção será feita eu seu fork, na data informada pelo professor.

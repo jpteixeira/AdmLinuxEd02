@@ -1,0 +1,6 @@
+1. Entre no diretório Scripts.
+
+2. Crie um script chamado Ex04.sh, conforme especificado em https://github.com/dodopahim/AdmLinuxEd02/blob/master/Cap04/Ex04.sh 
+
+3. Ainda no diretório Scripts, execute o comando "touch arq1.txt". Depois execute o comando  "> arq2.txt". Observe o que aconteceu ("ls -lah") e explique qual é a diferença entre os 2 comandos.
+

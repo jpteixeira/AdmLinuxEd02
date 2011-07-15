@@ -1,0 +1,3 @@
+1. Usando o SysV init:
+	a) Crie um script de inicialização no padrão SysV init para o recém-instalado httpd. Não esqueça de tratar os parámetros “start”, “stop” e “restart”. Também é necessário verificar se o httpd realmente iniciou antes de dar um “OK” para o usuário.
+	b) Certifique-se de que o script será executado quando o computador for ligado e que será parado quando o computador for desligado (atenção para os Run Levels).

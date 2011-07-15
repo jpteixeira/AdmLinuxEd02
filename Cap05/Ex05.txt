@@ -1,0 +1,7 @@
+1. Instale o  apache “httpd” a partir do source.
+	- Baixe o fonte de "http://ftp.unicamp.br/pub/apache//httpd/httpd-2.2.19.tar.gz"
+	- Será necessária a instalação do compilador "gcc". Faça-o usando o "yum".
+
+2. Instale o htop usando o rpm.
+	- Baixe o rpm de "http://fedora.c3sl.ufpr.br/linux/releases/14/Everything/x86_64/os/Packages/htop-0.8.3-3.fc14.x86_64.rpm"
+	- Caso necessário, instale as dependências.
