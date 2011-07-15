@@ -1,89 +1,93 @@
 # PROGRAMA DO CURSO
 #  
 # Capítulo 01: Introdução
-#  O Software Livre.
-#  História do Linux.
-#  Escolha da distribuição.
+#  História do Linux
+#  Free Software x Open Source
+#  Escolha da distribuição
 #  
 # Capítulo 02: Comandos básicos
-#  Entrando e saindo do sistema.
-#  Lidando com diretórios.
-#  Manipulando arquivos.
+#  Entrando e saindo do sistema
+#  Lidando com diretórios
+#  Manipulando arquivos
 #  
-# Capítulo 03: O editor de textos “vi”
-#  Modos de edição e de comandos.
-#  Comandos do “vi”.
+# Capítulo 03: O editor de textos "vi"
+#  Modos de edição e de comandos
+#  Comandos do "vi"
 #  
 # Capítulo 04: Shell Script
-#  “If”, “for”, “case” e “while”.
-#  Variáveis e variáveis de ambiente.
-#  Entrada padrão.
-#  Saída padrão.
-#  Saída de erro padrão.
+#  "If", "for", "case" e "while"
+#  Variáveis e variáveis de ambiente
+#  Entrada padrão
+#  Saída padrão
+#  Saída de erro padrão
 #  
 # Capítulo 05: Instalação de softwares
-#  rpm.
-#  yum.
-#  dpkg.
-#  apt.
-#  Compilação de sources.
+#  Gerenciadores de pacotres
+#  Compilação de sources
 #  
 # Capítulo 06: Inicialização do Sistema
-#  Sequência de boot.
-#  Gestor de início “grub”.
-#  Runlevels.
-#  SysV init.
-#  Upstart.
-#  Controle de serviços.
+#  Sequência de boot
+#  Gestor de início "grub"
+#  Runlevels
+#  SysV init
+#  Upstart
+#  Controle de serviços
 #  
 # Capítulo 07: Kernel
-#  Imagens do kernel.
-#  Módulos do kernel.
-#  O RAM disk inicial “initrd”.
-#  O sistema de arquivos virtual “/proc”.
-#  Configurando o kernel com “sysctl”.
-#  Capítulo 08: Sistemas de arquivos
-#  Gerenciamento de partições.
-#  Memória virtual “swap”.
-#  RAID via software.
-#  LVM.
+#  Imagens do kernel
+#  Módulos do kernel
+#  O RAM disk inicial "initrd"
+#  O sistema de arquivos virtual "/proc"
+#  Configurando o kernel com "sysctl"
+
+# Capítulo 08: Sistemas de arquivos
+#  Gerenciamento de partições
+#  Memória virtual "swap"
+#  RAID via software
+#  LVM
 #  
 # Capítulo 09: Gerenciamento de  usuários
-#  Usuários, grupos e senhas.
-#  Permissões.
-#  SUID, SGID e Sticky bit.
-#  ACLs.
-#  Quota.
+#  Usuários, grupos e senhas
+#  Permissões
+#  SUID, SGID e Sticky bit
+#  ACLs
+#  Quota
 #  
+# Capitulo 10: Gerenciamento de processos
+#  Características
+#  PID, PPID, UIG e GID
+#  Estados
+#  Sinais
+#  Prioridade
 #  
-# Capítulo 10: Agendamento de tarefas 
-#  Agendador “cron”.
-#  Comando “at”.
+# Capítulo 11: Agendamento de tarefas 
+#  Agendador "cron"
+#  Comando "at"
 #  
-# Capítulo 11: Logs do Sistema 
-#  Syslog.
-#  Logrotation.
+# Capítulo 12: Logs do Sistema 
+#  Rsyslog
+#  Logrotation
 #  
-# Capítulo 12: Serviços do Sistema
-#  XOrg.
-#  Cups.
+# Capítulo 13: Serviços do Sistema
+#  XOrg
+#  Cups
 #  
-# Capítulo 13: Instalação
-#  Métodos de instalação.
-#  Kickstart.
-#  Particionamento.
-#  Escolha de pacotes.
+# Capítulo 14: Instalação
+#  Métodos de instalação
+#  Particionamento
+#  Escolha de pacotes
+#  Kickstart
 #  
-# Capítulo 14: Configurações de rede 
-#  Endereço IP, máscara de sub-rede e default gateway.
-#  Servidor de nomes.
-#  Proxy-http.
-#  Configurações de SSH.
+# Capítulo 15: Configurações de rede 
+#  Endereço IP, máscara de sub-rede e default gateway
+#  Servidor de DNS
+#  Proxy-http
+#  Configurações de SSH
 #  
-# Capítulo 15: Segurança interna do sistema
-#  PAM.
-#  SELinux.
+# Capítulo 16: Segurança interna do sistema
+#  PAM
+#  SELinux
 #  
-# Capítulo 16: Segurança do sistema na rede
-#  TCP Wrappers.
-#  Iptables.
+# Capítulo 17: Segurança do sistema na rede
+#  TCP Wrappers
+#  Iptables
