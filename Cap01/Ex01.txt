@@ -1,8 +1,14 @@
 1. Qual a diferença entre Free Software (FSF) e Open Source (OSI)?
+  
+
 
 2. Por quê há tantas distribuições disponíveis?
+  Cada distribuição cuida de uma determinada parte. Servidores, desktops...
 
 3. Na sua opinião,  haver muitas distribuições é um benefício ou atrapalha?
+
+  
+  
 
 
 
